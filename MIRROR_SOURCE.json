@@ -1,0 +1,7 @@
+{
+  "source": "https://huggingface.co/datasets/allenai/olmOCR-bench",
+  "revision": "54a96a6fb6a2bd3b297e59869491db4d3625b711",
+  "file_count": 1418,
+  "upstream_bytes": 356940588,
+  "note": "All upstream files preserved except .gitattributes, which disables PDF LFS filters for this mirror."
+}
